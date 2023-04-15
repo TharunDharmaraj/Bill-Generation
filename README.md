@@ -1,5 +1,6 @@
 # Whatsapp Bill Generation Bot
 
+Whatsapp Bill Generation Bot makes the work of generating bill automatically within a finger snap. You will have to input the necessary parameters and just hit send it whatsapp. You will have the bill generated.
           
 1. TYPE IN THE SPECIFIED FORMAT:
           
