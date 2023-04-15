@@ -1,12 +1,24 @@
 # Whatsapp Bill Generation Bot
 
-EXAMPLE:
-![TYPE IN THE SPECIFIED FORMAT](EXAMPLE.jpeg)
+<h3> EXAMPLE:
+          
+1. TYPE IN THE SPECIFIED FORMAT:
+          
+![EXAMPLE](https://user-images.githubusercontent.com/83175935/232184999-e901a54e-3e45-46c8-914b-f3d9b12676b9.jpeg)
 
 
-![OBTAINED BILL :](EXAMPLE_BILL.jpeg)
+
+          
+2. OBTAINED BILL: 
+          
+![EXAMPLE_BILL](https://user-images.githubusercontent.com/83175935/232185004-cebbdb22-ea1a-49a4-8063-a1e8df0d4465.jpeg)
 
 
+          
+
+# STEPS FOR SETUP
+
+          
 1. Get Your Twilio Tokens and Paste in the fields of both flask_app.py & main.py
 
 ```
@@ -14,6 +26,7 @@ EXAMPLE:
           auth_token = 'TWILLIO_ACCESS_TOKEN'
 ```
 
+          
 2. Get Your Imgur Tokens and Paste in the fields of imgur.py
 
 ```
@@ -23,6 +36,7 @@ EXAMPLE:
 ```
   
          
+          
 3. Set the phone number to be used in the field and FROM field is obtained from your TWILIO accout
 
 ```
@@ -30,16 +44,20 @@ EXAMPLE:
 ```
 
 
+          
 4. Install the packages in requirements.txt by
 
 ```
           pip install requirements.txt
 ```
 
+          
+          
 5. Run main.py
 
 
-6. Go to the Twilio number and type 
+          
+6. In Whatsapp, Go to the Twilio number and type 
 
 ```
           2022, Toyota, Model Name 127XB, 29000, 12 Nov 2022   
@@ -48,5 +66,5 @@ EXAMPLE:
 
 
 # Note : 
-Deployed in Local and not in the cloud, for cloud deplymnet, use [pythonanywhere](https://www.pythonanywhere.com/)
+Deployed in Local and not in the cloud, for cloud deplymnet, use [pythonanywhere](https://www.pythonanywhere.com/) with some modifications in the cloud (Further Updates)
 
