@@ -1,4 +1,4 @@
-# BillModification
+# Bill Generation
 
 1. Get Your Twilio Tokens and Paste in the fields of both flask_app.py & main.py
 
