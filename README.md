@@ -1,4 +1,11 @@
-# Bill Generation
+# Whatsapp Bill Generation Bot
+
+EXAMPLE:
+![TYPE IN THE SPECIFIED FORMAT](EXAMPLE.jpeg)
+
+
+![OBTAINED BILL :](EXAMPLE_BILL.jpeg)
+
 
 1. Get Your Twilio Tokens and Paste in the fields of both flask_app.py & main.py
 
