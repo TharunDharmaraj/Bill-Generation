@@ -1,11 +1,9 @@
 # Whatsapp Bill Generation Bot
 
-<h3> EXAMPLE:
           
 1. TYPE IN THE SPECIFIED FORMAT:
           
 ![EXAMPLE](https://user-images.githubusercontent.com/83175935/232184999-e901a54e-3e45-46c8-914b-f3d9b12676b9.jpeg)
-
 
 
           
