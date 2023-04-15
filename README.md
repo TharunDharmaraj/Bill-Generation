@@ -65,5 +65,4 @@ Whatsapp Bill Generation Bot makes the work of generating bill automatically wit
 
 
 # Note : 
-Deployed in Local and not in the cloud, for cloud deplymnet, use [pythonanywhere](https://www.pythonanywhere.com/) with some modifications in the cloud (Further Updates)
-
+Deployed in Local and not in the cloud, for cloud deplymnet, use [pythonanywhere](https://www.pythonanywhere.com/) with some modifications in the cloud (Feel free to reach us)
