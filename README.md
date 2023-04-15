@@ -39,3 +39,7 @@
           # YEAR, COMPANY , MAKE , PRICE , DATE    is the format separated by commas
 ```
 
+
+# Note : 
+Deployed in Local and not in the cloud, for cloud deplymnet, use [pythonanywhere](https://www.pythonanywhere.com/)
+
